@@ -103,6 +103,9 @@
 .delete-icon {
   padding: 15px;
 }
+.delete-icon:hover{
+  color: red;
+}
 .button {
   color: white;
   background-color: #4c63b6;
